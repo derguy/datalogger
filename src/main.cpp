@@ -1,4 +1,3 @@
-// esp8266 deepsleep
 #include <ESP8266WiFi.h>
 #include <credentials.h>
 
